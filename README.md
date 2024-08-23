@@ -34,5 +34,20 @@ lib/
 
 
 
+## 🛠️ Project Setup
+
+To get started with the Country Checker app, follow these steps:
+
+### 1. **Clone the Repository**
+
+First, clone the repository from GitHub:
+
+```bash
+git clone https://github.com/yourusername/country-checker.git
+cd country-checker
+
+
+
+
 
 
