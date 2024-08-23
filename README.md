@@ -32,6 +32,9 @@ lib/
 ├── util/                  # Constants, utilities, and helpers
 └── main.dart              # App entry point
 
+## 🎨 Design
+
+Check out the Figma design for the Country Checker app (https://www.figma.com/design/tuvoDIN8wEXvDFHDeiBKjy/isuru-Group-Task?node-id=0-1&t=c0sCmEcvZvF9a5j8-1).
 
 
 ## 🛠️ Project Setup
