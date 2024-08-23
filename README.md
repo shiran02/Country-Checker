@@ -19,6 +19,10 @@
 - **Clean Architecture**: Separation of concerns for better code maintainability and scalability.
 - **Hooks & Consumer Widgets**: For a reactive and performant UI.
 
+## 🎨 Design
+
+Check out the Figma design for the Country Checker app (https://www.figma.com/design/tuvoDIN8wEXvDFHDeiBKjy/isuru-Group-Task?node-id=0-1&t=c0sCmEcvZvF9a5j8-1).
+
 ## 📂 Project Structure
 
 The project is structured to follow the principles of Clean Architecture:
@@ -32,9 +36,7 @@ lib/
 ├── util/                  # Constants, utilities, and helpers
 └── main.dart              # App entry point
 
-## 🎨 Design
 
-Check out the Figma design for the Country Checker app (https://www.figma.com/design/tuvoDIN8wEXvDFHDeiBKjy/isuru-Group-Task?node-id=0-1&t=c0sCmEcvZvF9a5j8-1).
 
 
 ## 🛠️ Project Setup
