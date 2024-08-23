@@ -35,22 +35,4 @@ class AColors {
   static const Color softGrey = Color(0xFFF4F4F4);
   static const Color lightGrey = Color(0xFFF9F9F9);
   static const Color white = Color(0xFFFFFFFF);
-
-  //profileScreen
-
-  static const Color lightGreenColor = Color.fromRGBO(156, 222, 3, 1);
-  static const Color lightBlueColor = Color.fromRGBO(29, 171, 249, 1);
-  static const Color lightOrangeColor = Color.fromRGBO(154, 65, 0, 1);
-  static const Color lightRedColor = Color.fromRGBO(255, 24, 0, 1);
-  static const Color ashColor = Color.fromRGBO(41, 41, 41, 1);
-
-  //
-  static const Color addImageColor = Color.fromRGBO(154, 191, 255, 1);
-
-  // app bar colors
-  static const Color searchBarBarDark = Color.fromRGBO(48, 47, 47, 1);
-  static const Color searchBarBarLight = Color.fromARGB(231, 212, 212, 212);
-
-  static const Color appBarDark = Color.fromRGBO(36, 35, 35, 1);
-  static const Color appBarLight = Color.fromARGB(231, 242, 242, 242);
 }
